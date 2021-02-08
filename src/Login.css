@@ -1,0 +1,22 @@
+.login__logo {
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 60px;
+}
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  object-fit: contain;
+  height: 150px;
+}
+h1 {
+  margin-bottom: 320px;
+}
